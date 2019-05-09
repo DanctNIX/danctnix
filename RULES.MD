@@ -29,9 +29,11 @@ You should not shame at people for using a distro you do not prefer, this also i
 
 ## Channel list:
 
-Matrix: All channels can be found in +danctnix:matrix.org
+**Discord:** https://discord.gg/AvtdRJ3
 
-Freenode:
+**Matrix:** All channels can be found in +danctnix:matrix.org
+
+**Freenode:**
 ```
 ##danctnix-general - General talk in your life, world,..
 ##danctnix-nixtalk - UNIX,UNIX-like discussions.
