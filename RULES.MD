@@ -40,3 +40,5 @@ Freenode:
 #danctnix-porting - Porting GNU/Linux to embedded/mobile devices.
 #danctnix-lowlevel - Lowlevel stuffs on embedded devices, such as bootloader hacking.
 ```
+
+All Freenode on-topic channels has logbot enabled, you can view the log here: https://freenode.logbot.info
