@@ -23,17 +23,3 @@ Do **NOT** post any NSFW contents on this server, keep it safe for work as possi
 
 You should not shame at people for using a distro you do not prefer, this also includes windows managers, desktop environment.
 
-
-## Channel list:
-
-**Discord:** https://discord.gg/AvtdRJ3
-
-**Matrix:**
-```
-#danctnix-general:matrix.org - General chat
-#danctnix-trash:matrix.org - Trash Can (Posting offtopic stuffs)
-#danctnix-portingv2:matrix.org - Porting (GNU/)Linux to your smartphone
-#danctnix-nixhelp:matrix.org - *NIX Help
-#danctnix-nixtalk:matrix.org - *NIX Talk
-#danctnix-android:matrix.org - Android talk
-```
