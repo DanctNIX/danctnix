@@ -2,24 +2,34 @@
 
 ## General channel rules:
 
-**Use the channels in a proper way**
+**Follow Discord's Community Guidelines (https://discordapp.com/guidelines)**
 
-Unix, Unix-like discussions has their own channel (Matrix: #danctnix-nixtalk). If you don't know which your disscussion fits in, (Matrix: #danctnix-general) is for you.
+Since our server is also on Discord, even if you aren't on there, you'll still have to obey it.
 
-**If you're on other platform that's not Matrix, the channel list is at the end of the file.**
+**Please be nice**
 
-
-**Be nice to people**
-
-No one loves being hated, please think. This also includes bullying, elitism,... 
-
+No harassment, hate speech, arguing over stupid things and trash talking, elitism over other people, technologies, phone brands, operating systems, window managers and etc. If you want to criticise things, try doing that constructively.
 
 **No NSFW Content**
 
-Do **NOT** post any NSFW contents on this server, keep it safe for work as possible.
+No NSFW/NSFL (gore)/other kinds of edgy content or any kind of link to such content, this includes things such as picture ID on imgur/hentai sites/4chan/etc.
 
+**No spamming**
 
-**No distro/de/wm elitism**
+Do not spam, this includes posting copypastas, chain mail, bot usage, flooding, sending "walls of text" and etc.
 
-You should not shame at people for using a distro you do not prefer, this also includes windows managers, desktop environment.
+**Please refrain from posting memes**
 
+Please refrain from posting memes in general chat, they rather belong in #trash chat, although posting something related to current topic shouldn't be a problem.
+
+**Do not annoy people**
+
+Please do not ping people unless you want to ask them about it, this will result in a mute (or kick).
+
+**Do not start drama**
+
+All dramas **MUST** be kept outside this and connected chats, we will kindly ask you to move on somewhere else and take actions where appropriate.
+
+**Do not get political**
+
+All politics **MUST** be kept outside this and connected chats, there are other servers/channels for politics and we recommend you to discuss about that there.
