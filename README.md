@@ -18,3 +18,5 @@ See [docs/RULES.md](/docs/RULES.md)
 #danctnix-nixtalk:matrix.org - *NIX Talk
 #danctnix-android:matrix.org - Android talk
 ```
+
+- **Telegram:** https://t.me/danctnix
