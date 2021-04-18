@@ -2,8 +2,8 @@
 
 ![DanctNIX Logo](/docs/logo.png)
 
-### Rules
-See [docs/RULES.md](/docs/RULES.md)
+### Code of Conduct
+See [docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md)
 
 ### Channel list:
 

@@ -1,3 +1,5 @@
+# The old community rules are only for historical purposes, please read our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 # DanctNIX Server/Channel Rules
 
 ## General channel rules:
