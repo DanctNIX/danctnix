@@ -7,8 +7,6 @@ See [docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md)
 
 ### Channel list:
 
-- **Discord:** https://discord.gg/AvtdRJ3
-
 - **Matrix:**
 ```
 #danctnix-general:matrix.org - General chat
